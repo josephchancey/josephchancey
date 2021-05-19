@@ -5,7 +5,7 @@
 - 👀 I’m interested in data analysis, data science, and game development.
 - 🌱 I’m currently learning unsupervised machine learning in Python for data science @ UC Davis.
 - 💞️ I’m looking to collaborate on data analysis/science projects professionally, and unity game dev projects as a hobby. 
-- 📫 How to reach me | public email: joechancey11 @ yahoo .com (minus spaces)  
+- 📫 How to reach me: Twitter DM or LinkedIn, see links at bottom of form.
 
 ### My History
 - 🕹️ I have created games in Unity3D as a hobby since 2013.
