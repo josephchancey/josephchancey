@@ -4,7 +4,7 @@
 - 🏫 I currrenty am enrolled at a CSU, and at a UC professional program for data analysis.
 - 👀 I’m interested in data analysis, data science, and game development.
 - 🌱 I’m currently learning unsupervised machine learning in Python for data science @ UC Davis.
-- 💞️ I’m looking to collaborate on data analysis/science projects professionally, and unity game dev projects as a hobby. 
+- 🤝 I’m looking to collaborate on data analysis/science projects professionally, and unity game dev projects as a hobby. 
 - 📫 How to reach me: Twitter DM or LinkedIn, see links at bottom of form.
 
 ### My History
