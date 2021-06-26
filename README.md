@@ -3,7 +3,6 @@
 - 📜 I have almost completed my B.A. in History. Though History is my major, Computer Science was origianlly my dicipline when I entered college. I switched to history because I grew fond of the research and writing process. In university I completed Computer Programming I & II. I try my best to combine skills from both majors. Which is incredibly useful with data analysis, as communicationg information and research is a large part of the job.
 - 🏫 I currrenty am enrolled at a CSU, and at a UC professional program for data analysis.
 - 👀 I’m interested in data analysis and data science.
-- 🌱 I’m currently learning unsupervised machine learning in Python for data science @ UC Davis.
 - 🤝 I’m looking to collaborate on data analysis/science projects. 
 - 📫 How to reach me: Twitter DM or LinkedIn, see links at bottom of form.
 
