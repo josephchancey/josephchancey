@@ -18,7 +18,13 @@
 - 💬 Interested in:  **API's**, **SaaS**, **data mining**, **ML Models**, **digital humanities**.
 - 📫 Reach me: [My Twitter](https://twitter.com/JosephChancey).
 - 📫 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/joseph-chancey).
-- ✨ Fun Fact: I am learning Japanese.
+- ✨ Fun fact: I am learning Japanese.
+
+##### RESEARCH
+- 📖 Optical character recognition methodologies and their applications towards historical documents.
+- 📖 Using data to find best method of delivery for C.S. courses in higher education.
+- 📖 Automatically turn scanned documents of historic trade records into a pandas dataframe using ML.
+
 
 #### I am always eager to meet and engage with people, don't hesitate to reach out!
 
