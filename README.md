@@ -1,7 +1,7 @@
 ### Hi, I'm Joseph 👋
 
 #### I'm a Data Scientist based in California. 
-#### B.A. History + UC Davis Data Analytics Bootcamp 
+#### CSU Stanislaus, B.A. History + UC Davis, Data Analytics Bootcamp 
 
 ##### CURRENT
 
