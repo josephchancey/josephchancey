@@ -19,7 +19,7 @@
 
 - 🏢 I'm currently employed as a Product Analyst
 - ⚙️ Languages: `.py`, `.js`, `.java`, `.cpp`, `.html`, `.css`. 
-- 💬 Interested in:  **API's**, **SaaS**, **ML Models**, **Digital umanities**, **Software Engineer**, **DevOps Pipelines**.
+- 💬 Interested in:  **API's**, **SaaS**, **ML Models**, **Digital Humanities**, **Teaching CS**
 - 📫 Reach me: [My Twitter](https://twitter.com/JosephChancey).
 - 📫 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/joseph-chancey).
 
