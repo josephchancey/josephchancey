@@ -1,6 +1,6 @@
 ### Hi, I'm Joseph 👋
 
-#### I'm an Analyst based in California. 
+#### I'm an Analyst based in California
 
 ##### EDUCATION 
 
@@ -11,15 +11,14 @@
 ##### CURRENT
 
 - 👤 Creating my [personal website](https://josephchancey.com/).
-- 📰 Expanding out from Flask API's by diving into `express.js`
-- 🌀 Learning Flutter/Dart to link API's to mobile apps.
-- 📚 Wrapping up my final semester as an undergraduate.
+- 📰 Learning jQuery to create reactive Flask apps.
+- 📚 Continuing my education to get on track for a Ph.D.
 
 ##### ABOUT
 
-- 🏢 I'm currently employed as a Product Analyst
-- ⚙️ Languages: `.py`, `.js`, `.java`, `.cpp`, `.html`, `.css`. 
-- 💬 Interested in:  **API's**, **SaaS**, **ML Models**, **Digital Humanities**, **Teaching CS**
+- 🏢 I'm currently employed as a Product Analyst.
+- ⚙️ Languages: `.py`, `.js`, `.java`, `.cpp`, `.html`, `.css`, `MySQL`. 
+- 💬 Interested in:  **API's**, **SaaS**, **ML Models**, **Digital Humanities**, **Teaching CS**.
 - 📫 Reach me: [My Twitter](https://twitter.com/JosephChancey).
 - 📫 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/joseph-chancey).
 
