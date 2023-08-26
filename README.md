@@ -9,12 +9,7 @@
 
 ##### CONTACT
 
-- 📫 Reach me: [My Twitter](https://twitter.com/JosephChancey).
-- 📫 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/joseph-chancey).
-
-##### RESEARCH
-- 📖 PENDING
-
+- 📫 LinkedIn: [in/joseph-chancey](https://www.linkedin.com/in/joseph-chancey).
 
 #### I am always eager to meet and engage with people, don't hesitate to reach out!
 
