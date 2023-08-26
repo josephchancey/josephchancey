@@ -7,10 +7,6 @@
 - CSU Stanislaus, B.A. History (2022)
 - UC Davis, Data Analytics Bootcamp (2021)
 
-##### CONTACT
-
-- 📫 LinkedIn: [in/joseph-chancey](https://www.linkedin.com/in/joseph-chancey).
-
 #### I am always eager to meet and engage with people, don't hesitate to reach out!
 
 <!---
