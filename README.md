@@ -1,11 +1,9 @@
 ### Hi, I'm Joseph 👋
 
-#### I'm an Analyst based in California
-
 ##### EDUCATION 
 
-- CSU Stanislaus, B.A. History (2022)
-- UC Davis, Data Analytics Bootcamp (2021)
+- B.A. History (2022)
+- Data Analytics Bootcamp (2021)
 
 #### I am always eager to meet and engage with people, don't hesitate to reach out!
 
