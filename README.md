@@ -2,8 +2,8 @@
 
 ##### EDUCATION 
 
+- M.S. Analytics (In Progress)
 - B.A. History (2022)
-- Data Analytics Bootcamp (2021)
 
 #### I am always eager to meet and engage with people, don't hesitate to reach out!
 
